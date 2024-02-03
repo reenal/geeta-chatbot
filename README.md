@@ -18,7 +18,7 @@ Flask Frontend: The frontend is developed using Flask, offering a user-friendly 
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/](https://github.com/reenal/geeta-chatbot.git
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
